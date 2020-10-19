@@ -1,6 +1,5 @@
 ---
 layout: default
-title: [梁光辉的个人主页]
 ---
 
 ## Welcome to Liang Guanghui's personal homepage
