@@ -1,3 +1,7 @@
+---
+title:梁光辉的个人主页
+layout:default
+---
 ## Welcome to Liang Guanghui's personal homepage
 ## 欢迎来到梁光辉的个人主页
 
