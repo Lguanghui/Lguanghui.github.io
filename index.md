@@ -3,6 +3,14 @@ layout: default
 ---
 ## Welcome to Liang Guanghui's Personal Homepage
 ## 欢迎来到我的个人主页
+<div>
+    <div>
+        nihao
+    </div>
+    <div>
+        nihao
+    </div>
+</div>
 
 You can use the [editor on GitHub](https://github.com/Lguanghui/Lguanghui.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
