@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to Liang Guanghui's personal homepage
+## Welcome to Liang Guanghui's Personal Homepage
 ## 欢迎来到梁光辉的个人主页
 
 [404](./404.md)
