@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<div>你好</div>
-<div>你好啊</div>
 ## Welcome to Liang Guanghui's Personal Homepage
 ## 欢迎来到我的个人主页
 
