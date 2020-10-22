@@ -6,7 +6,7 @@ layout: default
     <title>test</title>
     <style>
         body{
-            background-image: linear-gradient(to bottom right,#44a3bb,#0dd482);
+            background-image: linear-gradient(to bottom right,#44a3bb,#cdd40d);
         }
     </style>
 </head>
