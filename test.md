@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 ---
 <head>
 <meta charset="UTF-8">
