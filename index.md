@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 [测试界面](./test2.html)
 
