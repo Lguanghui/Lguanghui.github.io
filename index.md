@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[测试界面](./test1.html)
+[测试界面](./test2.html)
 
 ## Welcome to Liang Guanghui's Personal Homepage
 ## 欢迎来到我的个人主页
